@@ -37,4 +37,4 @@ This is a small interactive web application created to convey love and birthday 
 
 1. **Clone or Download the Repository**
    ```bash
-   git clone https://github.com/your-username/for-my-sunshine.git
+   git clone https://github.com/kanchanadevi28/for-my-sunshine.git
