@@ -1,40 +1,19 @@
-# 💙 For My Sunshine - Interactive Romantic Mini Web App
+# For My Sunshine 💙
 
-This is a small interactive web application created to convey love and birthday wishes in a fun, cute, and romantic way. It’s made using **HTML, CSS, and JavaScript** — no backend required. Perfect for sharing with your special someone! 🥰
+A cute, interactive, and heartfelt web page to surprise your loved one! This project displays a series of animated pages with personalized messages, floating hearts, and a typing effect to make your message feel extra special. Perfect for birthdays, anniversaries, or just to show love. 🥰
 
----
+## Features
 
-## 🌟 Features
+- Multi-page interactive love notes.
+- Typing animation for titles and messages.
+- Floating heart animation across the screen.
+- Glass-style buttons with hover effects.
+- Responsive design with gradient background.
 
-- **4 Interactive Pages**:
-  1. **Love Note Page** – A sweet personal message to start the journey.
-  2. **Romantic Message Page** – Conveying how much your partner means to you.
-  3. **Birthday Wish Page** – A personalized birthday message.
-  4. **Love Confession Page** – Express your love fully with heartwarming text.
+## Usage
 
-- **Typing Effect**: Text appears as if it’s being typed in real-time for a dramatic, heartfelt effect. ✨
+1. Open the `index.html` file in any modern browser (Chrome, Firefox, Edge, Safari).
+2. Edit the name in the script if you want to personalize it:
 
-- **Glass Button Style**: Romantic frosted-glass buttons with hover effects. 💖
-
-- **Floating Hearts Animation**: Hearts continuously float from the bottom of the screen to the top, creating a romantic atmosphere. ❤️
-
-- **Responsive**: Works on any screen size.
-
-- **Lightweight**: Pure front-end code (HTML, CSS, JS) with no dependencies.
-
----
-
-## 🎨 Design
-
-- **Background**: Light and romantic gradient: `#F5F8FA` → `#BDE7FC` → `#6CA7F5`.
-- **Text**: Muted grayish color `#4F5661` for a soft look.
-- **Hearts**: Pink-red floating hearts for romantic effect.
-- **Buttons**: Frosted glass effect with glow and scale animation on hover.
-
----
-
-## 💻 How to Use
-
-1. **Clone or Download the Repository**
-   ```bash
-   git clone https://github.com/kanchanadevi28/for-my-sunshine.git
+```javascript
+const name = "Sunshine";
